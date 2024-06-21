@@ -1,3 +1,4 @@
+zookeeper:3.6.1
 influxdb:2.7.0
 xuxueli/xxl-job-admin:2.4.0
 apolloconfig/apollo-configservice:2.1.0
